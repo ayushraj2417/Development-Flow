@@ -33,7 +33,7 @@ git commit –m “Commit message” (Example of commit message: "changes made f
 git push origin branch-name (branch-name: Your branch name) 
 
 
-Create Pull Request 
+8. Create Pull Request 
 Go to your Git platform and find your repository 
 Source branch: Your feature branch. 
 Target branch: main or development. 
@@ -48,6 +48,7 @@ Devo
 - PR workflow: Create branch → Commit → PR → Review → Merge. 
 - Merge strategy: Squash merger preferred for clean history. (Advised by Russel) 
 
+---------------------------------------------------------------------------------------------------------
 Some useful Git Commands:  
 git status (Show the working directory status) 
 git branch (List local branches) 

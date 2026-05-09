@@ -1,0 +1,5 @@
+Step 1: For this I have created the new feature branch locally using cmd: "git checkout -b feature"
+Step 2: Then in feature branch I have created the new file with the name feature_empty_file.txt and added some content/ features.
+Step 3: Now we can push the changes not directly to the main branch. Right now we are in the feature branch and we can push the code from the same branch and if that branch not exist remotely, it will create the branch with the same name and we can refer with origin/feature.
+Step 4: After successfully push the code using cmd : "git push origin feature", Now we can create PR for merging the code from feature branch to main branch.
+Step 5: After creating the PR the request will go the manager and they will review the PR and accordingly approve. Once approve, our code get merged with the main branch.
